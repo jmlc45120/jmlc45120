@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmlc45120
-- 👀 I'm interested in web development
+- 👀 I'm fond of web development
 - 🌱 I’m currently learning to use WordPress
 <!---
 jmlc45120/jmlc45120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
